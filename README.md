@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Santiago017-main
+- 👀 I’m interested in programing  
+- 🌱 I’m currently learning java and python
+- 💞️ I’m looking to collaborate on university
+- 📫 You can reach me as Santiago Bejarano my e mail is santiagobejaranoariza@gmail.com and you can follow me in instagram as santiagobejaranoariza
