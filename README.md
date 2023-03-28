@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santiago017-main
+- 👋 Hi, I’m @Santiago017
 - 👀 I’m interested in programing  
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on university
